@@ -1,0 +1,17 @@
+.imagenportada{
+
+    background: url("apple1.jpg") no-repeat ;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+
+}
+
+h2{
+    font-size: 56px;
+
+}
+
+h3{
+    font-size: 28px;
+}
