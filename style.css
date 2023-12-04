@@ -12,9 +12,10 @@
 }
 
 h2{
-    font-size: 56px;
 
+    font-size: 56px
 }
+
 
 h3{
     font-size: 28px;
@@ -66,4 +67,6 @@ nav{
 a{
     text-decoration: none;
     color: black;
+
 }
+
